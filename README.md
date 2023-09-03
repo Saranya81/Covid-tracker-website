@@ -1,1 +1,3 @@
 # Covid-tracker-website
+All Countries in the world fighting with Coronavirus. Every day, Coronavirus cases rising rapidly. It is important for all to keep track of COVID Cases daily and should try to keep himself/herself safe. We have made small web apps that will tell you the total no of cases, new cases, new death, recovery, etc. to the user. You have to just enter the country name and click on search. 
+You should have three main files index.html and CSS (it is only required if you want to design,  And the third most important file is the JavaScript file  which is needed to for fetching COVID data and responding to the user search.
